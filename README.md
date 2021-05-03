@@ -1,2 +1,2 @@
 # WebScraping
-Learn Web Scraping by doing reality projects of scraping data from websites
+Collect data from the internet, website and public APIs using BeautifulSoup, Rest APIs
